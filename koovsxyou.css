@@ -247,12 +247,15 @@
   border-right: 2px solid rgb(187, 187, 187);
   text-align: center;
 }
-#addBox2 {
+#addBox2,#addBox3 {
   grid-area: b2;
   height: 50%;
-  width: 50%;
+  width: 40%;
   text-align: center;
   margin-left: 30px;
+}
+#addBox3{
+  margin-left:400px;
 }
 #addBox2display{
     display: none;
@@ -270,12 +273,14 @@
 margin-top: -16px;
 }
 #additionalPageBrand1,
-#additionalPageBrand2 {
+#additionalPageBrand2,
+#additionalPageBrand3 
+  {
   font-size: 16px;
   font-family: sans-serif;
 }
 #additionalPageProduct1,
-#additionalPageProduct2 {
+#additionalPageProduct2,#additionalPageProduct3 {
   font-size: 14px;
   font-family: sans-serif;
   margin-top: -6px;
@@ -294,7 +299,7 @@ margin-top: -16px;
   color: rgb(177, 2, 2);
   margin-top: 10px;
 }
-#currentPrice2 {
+#currentPrice2,#currentPrice3 {
   font-size: 28px;
   color: rgb(177, 2, 2);
 }
@@ -304,7 +309,7 @@ margin-top: -16px;
   line-height: 0;
   margin-top: -10px;
 }
-#previousPrice2 {
+#previousPrice2,#previousPrice3 {
   text-decoration: line-through;
   font-size: 28px;
 }
@@ -372,20 +377,20 @@ form button {
   width: 80%;
   margin: auto;
 }
-#additionalBox2Image {
+#additionalBox2Image,#additionalBox3Image {
   height: 137px;
   width: 103px;
 }
-#addBox2 form {
+#addBox2 form, #addBox3 form {
   margin-top: 0;
 }
-#addBox2 form select {
+#addBox2 form select, #addBox3 form select {
   width: 80%;
   padding: 3px;
   margin-top: 8px;
   border: 1px solid rgb(197, 195, 195);
 }
-#addBox2 form button {
+#addBox2 form button, #addBox3 form button {
   width: 80%;
   padding: 3px;
   margin-top: 8px;
