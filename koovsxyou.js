@@ -122,7 +122,7 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         brand2:"KOOVS",
         product2:"knitted trainers",
         currentPrice2:"1699",
-        previousPrice2:"",
+        previousPrice2:"2999",
         image2:"https://product.koovs.com/120676_ba259281ea761ec8b3c807957972366b.jpg",
         link3:"https://www.koovs.com/koovs-slim-fit-jogpants-126039-141199.htmlnull",
         brand3:"KOOVS",
