@@ -178,8 +178,7 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
             count++;
             var div = document.createElement("div");
             var img = document.createElement("img");
-            img.setAttribute("src",`koovsxyou-images/${item.img}`);
-
+            img.setAttribute("src",`koovsxyou-images/koovsxyou-images/${item.img}`);
 
             var idNumber= (index) % 18;
             div.setAttribute("id",`imgBox${idNumber+1}`);
