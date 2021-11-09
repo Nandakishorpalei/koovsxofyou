@@ -116,7 +116,7 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         brand1:"Shivan & Narresh X KOOVS",
         product1:"koovs",
         currentPrice1:"3999",
-        previousPrice1:"6999",
+        previousPrice1:"",
         image1:"https://product.koovs.com/130670_4179d399da05bba9413113fb4b00a77b.jpg",
         link2:"https://www.koovs.com/koovs-stripe-sneakers-120676-135212.html",
         brand2:"KOOVS",
