@@ -64,6 +64,7 @@
   margin: auto;
   margin-top: 2rem;
   justify-content: center;
+  cursor:pointer;
 }
 #koovsxContainer .imgContainer1,
 .imgContainer2 {
