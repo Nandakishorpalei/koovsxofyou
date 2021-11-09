@@ -21,7 +21,8 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         product2:"KOOVS mid-wash",
         currentPrice2:"719",
         previousPrice2:"1199",
-        image2:"https://product.koovs.com/163264_28b8605fc0644a34bb27834fc184c1ce_image1_super_zoom.jpg"
+        image2:"https://product.koovs.com/163264_28b8605fc0644a34bb27834fc184c1ce_image1_super_zoom.jpg",
+        link3:"null" 
     },
     product2={
         link1:"https://www.koovs.com/blue-saint-mens-tshirts-138323-155313.html",
@@ -31,11 +32,7 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         previousPrice1:"699",
         image1:"https://product.koovs.com/155313_7f1d377ddd56495b85fb784d1abef6a8_image1_super_zoom.jpg",
         link2:"null",
-        brand2:"",
-        product2:"",
-        currentPrice2:"",
-        previousPrice2:"",
-        image2:""     
+        link3:"null"   
     },
     product3={
         link1:"https://www.koovs.com/yellow-and-plum-wind-breaker-jacket-151799-169021.html",
@@ -49,7 +46,8 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         product2:"multi check slogan",
         currentPrice2:"1599",
         previousPrice2:"1999",
-        image2:"https://product.koovs.com/169065_ace55ee17f1c4f51ab4c0c64e08ae0bb_image1_super_zoom.jpg"
+        image2:"https://product.koovs.com/169065_ace55ee17f1c4f51ab4c0c64e08ae0bb_image1_super_zoom.jpg",
+        link3:"null" 
     },
     product4={
         link1:"https://www.koovs.com/koovs-men-casual-shirts-152396-169627.html",
@@ -58,12 +56,19 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         currentPrice1:"899",
         previousPrice1:"1499",
         image1:"https://product.koovs.com/169627_4a761c015faf431eab3b080cfbb2516e_image1_super_zoom.jpg",
-        link2:"https://www.koovs.com/blue-saint-men-casual-shoes-153050-170284.html",
-        brand2:"BLUE SAINT",
-        product2:"contrast striped casual shoes",
-        currentPrice2:"750",
-        previousPrice2:"2499",
-        image2:"https://product.koovs.com/170284_c1afa5a129504c9bbcf7428802eb269b_image1_super_zoom.webp"     
+        link2:"https://www.koovs.com/onezero-by-koovs-men-men-shorts-150412-167630.html",
+        brand2:"ONE/ZERO BY KOOVS",
+        product2:"Athleisure Sports Shorts",
+        currentPrice2:"539",
+        previousPrice2:"899",
+        image2:"https://product.koovs.com/207x230/167630_e01d068be3b146ea9ff5a2b3c0703749_image1_super_zoom.jpg",
+        link3:"https://www.koovs.com/blue-saint-men-casual-shoes-153050-170284.html",
+        brand3:"Blue Saint",
+        product3:"Contrast Striped Casual Shoes",
+        currentPrice3:"750",
+        previousPrice3:"2499",
+        image3:"https://product.koovs.com/170284_c1afa5a129504c9bbcf7428802eb269b_image1_super_zoom.webp" 
+
     },
     product5={
         link1:"https://www.koovs.com/high-neck-bodysuit-248-119972-134442.html",
@@ -72,12 +77,18 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         currentPrice1:"699",
         previousPrice1:"",
         image1:"https://product.koovs.com/119972_82b64123fd9a0921cc3b23351c68c5e3.jpg",
-        link2:"//www.koovs.com/koovs-lace-up-chunky-sole-trainer-119236-133783.html",
-        brand2:"KOOVS",
-        product2:"holographic panel",
-        currentPrice2:"1249",
-        previousPrice2:"2499",
-        image2:"https://product.koovs.com/119236_489638b39b5ad22c22c07eff20217eab.webp"
+        link2:"https://www.koovs.com/button-detail-skirt-129372-144964.html",
+        brand2:"EMMACLOTH",
+        product2:"Scalloped Hem Button-Front Skirt",
+        currentPrice2:"1199",
+        previousPrice2:"1999",
+        image2:"https://product.koovs.com/129372_48a7216625871decf7bbf5a998b921db.webp",
+        link3:"https://www.koovs.com/koovs-lace-up-chunky-sole-trainer-119236-133783.html",
+        brand3:"KOOVS",
+        product3:"Holographic Panel Chunky Sole Trainers",
+        currentPrice3:"1249",
+        previousPrice3:"2499",
+        image3:"https://product.koovs.com/119236_489638b39b5ad22c22c07eff20217eab.webp" 
     },
     product6={
         link1:"https://www.koovs.com/blue-saint-over-dyed-denim-jacket-196-126585-141796.html",
@@ -86,17 +97,24 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         currentPrice1:"849",
         previousPrice1:"1699",
         image1:"https://product.koovs.com/126585_b414f18730a303649b1cfce8657c21f7.webp",
-        link2:"https://www.koovs.com/men-classic-culture-273-127614-142970.html",
-        brand2:"361 DEGREE",
-        product2:"Classic Culture Suede Knitted Trainers",
-        currentPrice2:"2999",
-        previousPrice2:"5999",
-        image2:"https://product.koovs.com/127614_dbaee035f10f441b26671249529e3a22.webp"     
+        link2:"https://www.koovs.com/shivan--narresh-x-koovs-satin-all-over-print-utility-jacket-130670-146467.html",
+        brand2:"Shivan & Narresh X",
+        product2:"koovs",
+        currentPrice2:"3999",
+        previousPrice2:"6999",
+        image2:"https://product.koovs.com/130670_4179d399da05bba9413113fb4b00a77b.jpg",
+        link3:"https://www.koovs.com/men-classic-culture-273-127614-142970.html",
+        brand3:"361 degree",
+        product3:"Classic Culture Suede Knitted Trainers",
+        currentPrice3:"2999",
+        previousPrice3:"5999",
+        image3:"https://product.koovs.com/127614_dbaee035f10f441b26671249529e3a22.webp"
+
     },
     product7={
         link1:"https://www.koovs.com/shivan--narresh-x-koovs-satin-all-over-print-utility-jacket-130670-146467.html",
         brand1:"Shivan & Narresh X KOOVS",
-        product1:"",
+        product1:"koovs",
         currentPrice1:"3999",
         previousPrice1:"",
         image1:"https://product.koovs.com/130670_4179d399da05bba9413113fb4b00a77b.jpg",
@@ -105,7 +123,13 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         product2:"knitted trainers",
         currentPrice2:"1699",
         previousPrice2:"",
-        image2:"https://product.koovs.com/120676_ba259281ea761ec8b3c807957972366b.jpg"
+        image2:"https://product.koovs.com/120676_ba259281ea761ec8b3c807957972366b.jpg",
+        link3:"https://www.koovs.com/koovs-slim-fit-jogpants-126039-141199.htmlnull",
+        brand3:"KOOVS",
+        product3:"Basic Slim Fit Joggers",
+        currentPrice3:"999",
+        previousPrice3:"1999",
+        image3:"https://product.koovs.com/126039_c652ff49877e60c454def810f437184c.webp"   
     },
     product8={
         link1:"https://www.koovs.com/koovs-shivan-and-narresh-x-koovs-summer-night-bodycon-dress-131108-146943.html",
@@ -119,7 +143,8 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         product2:"marble design tassle",
         currentPrice2:"249",
         previousPrice2:"499",
-        image2:"https://product.koovs.com/123574_da0a46c587ba58cb35bbc5701b0b578d.jpg"     
+        image2:"https://product.koovs.com/123574_da0a46c587ba58cb35bbc5701b0b578d.jpg",
+        link3:"null"      
     },
     product9={
         link1:"https://www.koovs.com/oversize-half-sleeve-cuban-collar-126720-141931.html",
@@ -133,7 +158,68 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
         product2:"Skinny Jeans",
         currentPrice2:"749",
         previousPrice2:"1499",
-        image2:"https://product.koovs.com/207x230/126898_2cb6b93186d2c0fe741a325c7e09b187.jpg"     
+        image2:"https://product.koovs.com/207x230/126898_2cb6b93186d2c0fe741a325c7e09b187.jpg",
+        link3:"null"      
+    },
+    product10={
+        link1:"https://www.koovs.com/koovs-one-shoulder-maxi-dress-3-128553-144003.html",
+        brand1:"KOOVS",
+        product1:" Tropical Palm Print Asymmetric Dress",
+        currentPrice1:"749",
+        previousPrice1:"1499",
+        image1:"https://product.koovs.com/128553_fa4fdbec858cb496e4c96c242655bf52.jpg",
+        link2:"https://www.koovs.com/intoto-ankle-strap-metallic-hardware-detail-heels-118380-132554.html",
+        brand2:"Intoto",
+        product2:"Crystal Embellished Strap Heeled Sandals",
+        currentPrice2:"729",
+        previousPrice2:"2099",
+        image2:"https://product.koovs.com/118380_296df1877a390fb2b10c6fc3c6ef362a.jpg",
+        link3:"https://www.koovs.com/stye-fiesta-twisted-hoops-129692-145300.html",
+        brand3:"Style fiesta",
+        product3:"Twisted Hoops",
+        currentPrice3:"499",
+        previousPrice3:"999",
+        image3:"https://product.koovs.com/129692_9c5055b745902d79bc08ae6b943f2945.jpg"     
+    },
+    product11={
+        link1:"https://www.koovs.com/style-fiesta-retro-solid-red-sunglasses-120514-135021.html",
+        brand1:"style fiesta",
+        product1:"Coloured Lens Oversized Retro Sunglasses",
+        currentPrice1:"1499",
+        previousPrice1:"2999",
+        image1:"https://product.koovs.com/120514_f5e0e3e8808026d68eea373bffa5c7aa.webp",
+        link2:"https://www.koovs.com/eulalie-124280-139194.html",
+        brand2:"Blue Saint",
+        product2:"Striped Frayed Hem Shorts",
+        currentPrice2:"1499",
+        previousPrice2:"1500",
+        image2:"https://product.koovs.com/124280_de577cff0989e851c1b7cc8d368b9358.webp",
+        link3:"https://www.koovs.com/koovs-crew-neck-summer-vacay-vest-125669-140767.html",
+        brand3:"KOOVS",
+        product3:"Summer Vacay Placement Print Vest",
+        currentPrice3:"349",
+        previousPrice3:"699",
+        image3:"https://product.koovs.com/125669_9a381e80ca7d9ba75152234a3b015df5.webp"     
+    },
+    product12={
+        link1:"https://www.koovs.com/shivan--narresh-x-koovs-mangnolia-print-utility-track-jogger-130671-146468.html",
+        brand1:"Shivan & Narresh X KOOVS ",
+        product1:"Magnolia Flower Print Utility Joggers",
+        currentPrice1:"1999",
+        previousPrice1:"2000",
+        image1:"https://product.koovs.com/130671_1c3319a77d0b31b04c0e99cc64e89c32.webp",
+        link2:"https://www.koovs.com/men-classic-culture-273-127614-142970.html",
+        brand2:"361 degree",
+        product2:"Classic Culture Suede Knitted Trainers",
+        currentPrice2:"2999",
+        previousPrice2:"5999",
+        image2:"https://product.koovs.com/127614_dbaee035f10f441b26671249529e3a22.webp",
+        link3:"https://www.koovs.com/giordano-men-hs-hs-oxford-shirt-129652-145259.html",
+        brand3:"Giordano",
+        product3:"Basic Oxford Short Sleeve Shirt",
+        currentPrice3:"1999",
+        previousPrice3:"2000",
+        image3:"https://product.koovs.com/129652_2e936d93a6c2e3c55a35763fb6848b0f.jpg"     
     }
 ];       
 
@@ -179,6 +265,7 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
             var div = document.createElement("div");
             var img = document.createElement("img");
             img.setAttribute("src",`koovsxyou-images/${item.img}`);
+
 
             var idNumber= (index) % 18;
             div.setAttribute("id",`imgBox${idNumber+1}`);
@@ -281,8 +368,14 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
             var box2CurrentPrice = document.getElementById("currentPrice2");
             var box2previousPrice = document.getElementById("previousPrice2");
             var box2img = document.getElementById("additionalBox2Image");
+            var box3Link = document.getElementById("box3Link");
+            var box3Brand = document.getElementById("additionalPageBrand3");
+            var box3Product = document.getElementById("additionalPageProduct3");
+            var box3CurrentPrice = document.getElementById("currentPrice3");
+            var box3previousPrice = document.getElementById("previousPrice3");
+            var box3img = document.getElementById("additionalBox3Image");
 
-            var reminder = index % 9;
+            var reminder = index % 12;
             var productBox = productArr[reminder];
            
             box1Link.href = productBox.link1;
@@ -301,7 +394,18 @@ var images=["img1.jpg","img2.jpg","img3.jpg","img4.jpg","img5.jpg","img6.jpg","i
                 box2Product.textContent = productBox.product2;
                 box2CurrentPrice.textContent = `RS. ${productBox.currentPrice2}`;
                 box2previousPrice.textContent = `RS. ${productBox.previousPrice2}`;
-                box2img.src = productBox.image2;    
+                box2img.src = productBox.image2;
+            if(productBox.link3 == "null"){
+                document.getElementById("addBox3").style.display="none";
+            }else{
+                document.getElementById("addBox3").style.display="inline-block";
+            }
+                box3Link.href = productBox.link3;
+                box3Brand.textContent = productBox.brand3;
+                box3Product.textContent = productBox.product3;
+                box3CurrentPrice.textContent = `RS. ${productBox.currentPrice3}`;
+                box3previousPrice.textContent = `RS. ${productBox.previousPrice3}`;
+                box3img.src = productBox.image3;    
                
             
         document.getElementById("additionslPageAddtoCart").addEventListener("mouseover",changeHeaderBox1);
